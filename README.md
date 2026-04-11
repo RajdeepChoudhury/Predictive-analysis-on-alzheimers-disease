@@ -59,6 +59,4 @@ The best-performing model is selected based on evaluation metrics and used in th
 - NumPy  
 - Scikit-learn  
 - Matplotlib / Seaborn  
-- Flask / Django  
-
----
+- Flask / Django

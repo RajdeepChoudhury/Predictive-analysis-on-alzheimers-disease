@@ -4,7 +4,7 @@
 This project focuses on predictive analysis of Alzheimer’s disease using machine learning techniques. The goal is to enable early detection and risk assessment by analyzing patient data and identifying patterns that indicate the likelihood of the disease.
 
 <p align="center">
-  <img src="p1.jpg" alt="Picture" width="800" height="800"/>
+  <img src="p1.jpg" alt="Picture" width="300" height="300"/>
 </p>
 
 ---

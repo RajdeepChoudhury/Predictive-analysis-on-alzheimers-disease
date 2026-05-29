@@ -1,0 +1,5 @@
+start the server: 
+	npm run (For checking)
+	npm start
+webpage:
+	http://localhost:3000
